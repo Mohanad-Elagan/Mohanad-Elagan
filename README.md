@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I am @Mohanad-Elagan, and this is [my personal website](https://www.Mohanad-Elagan.com) <br>👀 I am interested in software development, UI/UX design and implementation, and data science<br>🌱 I am currently studying at STEM High School for Boys - 6th of October<br>📫 Find all my contacts in my personal website above
+👋 Hi, I am @Mohanad-Elagan, and this is [my personal website](https://www.Mohanad-Elagan.com) <br>👀 I am interested in software development, UI/UX design and implementation, and data science<br>🌱 I am currently studying at Berea College<br>📫 Find all my contacts in my personal website above
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohanadelagan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanadelagan/)
