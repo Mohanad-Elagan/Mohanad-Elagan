@@ -1,5 +1,5 @@
 # About Me:
-- 👋 Hi, I am @Mohanad-Elagan, and this is [my personal website](https://www.Mohanad-Elagan.com). Undergraduate student at Berea College. <br>- 👀 I'm interested in computational biology and software engineering (data science).<br>- 🌱 I'm currently learning more about how to utilize Machine Learning for precision medicine and early diagnostic prediction.<br>- 📫 You can reach me on [email](mailto:mohanad.elagan1@gmail.com)
+- 🌱 I'm currently learning more about how to utilize Machine Learning for precision medicine and early diagnostic prediction.<br>- 📫 You can reach me on [email](mailto:mohanad.elagan1@gmail.com)
 <br>- 💞️ I'm looking to collaborate on...
 
 ## Socials:
